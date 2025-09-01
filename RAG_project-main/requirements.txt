@@ -1,6 +1,0 @@
-langchain
-pypdf
-faiss-cpu
-sentence-transformers
-ollama
-ollama2
