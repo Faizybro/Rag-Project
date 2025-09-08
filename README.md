@@ -1,7 +1,7 @@
 # 📚 RAG Project — Reorganized Variant
 
 This project is a **Retrieval-Augmented Generation (RAG) system** that allows you to ask questions from your own PDF documents.  
-It uses **LangChain**, **FAISS**, and **Ollama** (local LLMs such as Mistral or Llama 2) to provide answers grounded in your data.
+It uses **LangChain**, **FAISS**, and **Ollama** (local LLMs such  Llama 2) to provide answers grounded in your data.
 
 ---
 
